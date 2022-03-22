@@ -8,7 +8,7 @@ change to return to the customer.
 **Allowed coins:**
 25c 50c 1$ 2$ 5$
 
-###Initialization
+### Initialization
 **To operate the Vending Machine please launch**
 
 ```
